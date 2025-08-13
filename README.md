@@ -2,6 +2,12 @@
 
 In this project I have worked on CRUD operations using Python and SQLIT
 
+Pre-requisite steps are:
+
+- import sqlite3
+- create connection to db
+- create cursor from the connection to execute the query.
+
 ## Create Operation
 
 - [ ] Step 1: Connect DB
